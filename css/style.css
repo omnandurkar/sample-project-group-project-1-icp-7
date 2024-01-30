@@ -1,0 +1,29 @@
+/*
+  tomato: #ff4d4d
+  blue: #668cff
+  orange: #ff9966
+*/
+
+.btn {
+  padding: 5px 20px;
+  border-radius: 15px;
+  border: none;
+}
+
+.btn-tomato {
+  background-color: #ff4d4d;
+  color: white;
+  border: 1px solid black;
+}
+
+.btn-blue {
+  background-color: #668cff;
+  color: white;
+  border: 1px solid black;
+}
+
+.btn-orange {
+  background-color: #ff9966;
+  color: white;
+  border: 1px solid black;
+}
